@@ -1,5 +1,5 @@
 # SOCIAL-MEDIA
-Designed social media application using Django
+Designed social media application using Django, HTML, CSS and JavaScript
 The source code contains the following:
 1. URL routing
 2. Template setup
